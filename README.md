@@ -9,3 +9,6 @@ ensuring it is pointing at the correct dir containing `php_openssl` extension.
 
 Also, I modified the `test` directory in the above instructions to `example` for
 my own preference in naming convention.
+
+# Run the test
+Using CLI, navigate into `test/ls_project` and run `behat`.
